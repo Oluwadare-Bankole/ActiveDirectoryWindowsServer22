@@ -14,5 +14,7 @@ VM2 - Windows 10 - https://www.microsoft.com/en-us/software-download/windows10
 <br />
 
 <h2>Network Topology</h2>
+<img src="https://i.imgur.com/Gwgffdz.png" height="80%" width="80%" alt="Active Directory Topology"/>
 
 <h2>Domain Controller Installation</h2>
+Open VirtualBox
