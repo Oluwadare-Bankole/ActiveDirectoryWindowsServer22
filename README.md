@@ -16,7 +16,10 @@ VM2 - Windows 10 - https://www.microsoft.com/en-us/software-download/windows10
 Please download the virtualbox hypervisor and the isos from the links above
 
 <h2>Network Topology</h2>
-<img src="https://i.imgur.com/Gwgffdz.png" height="80%" width="80%" alt="Active Directory Topology"/>
+
+![Active Directory Topoogy-revised drawio](https://github.com/user-attachments/assets/6c35e581-469d-4931-a7fa-560455ed6ef6)
+
+
 
 <h2>Domain Controller Installation</h2>
 Open VirtualBox,
